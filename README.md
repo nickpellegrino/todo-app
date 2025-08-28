@@ -1,4 +1,5 @@
 # todo-app
+Quick demo to showcase analytic tracking with gtm + ga4 using the dataLayer
 
 ## Project setup
 ```
